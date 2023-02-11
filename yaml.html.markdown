@@ -1,7 +1,7 @@
 ---
 language: yaml
 filename: learnyaml.yaml
-contributors:
+contributors:bright
 
 - [Leigh Brenecki, 'https://leigh.net.au']
 - [Suhas SG, 'https://github.com/jargnar']
